@@ -7,7 +7,6 @@
 * Registers
   * 16 32-bit general purpose registers
   * Separate program counter? 32-bit special register
-  * 
 * Load/Store architecture
 * Instruction set
   * RISC
